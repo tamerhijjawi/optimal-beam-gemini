@@ -38,7 +38,7 @@ Google's [extension release process](https://geminicli.com/docs/extensions/relea
 | `search_steel_sections` | Search supported steel section catalogs. |
 | `get_steel_section` | Retrieve a section's dimensions and geometric properties. |
 | `find_steel_alternatives` | Find nearby catalog alternatives. |
-| `compare_steel_sections` | Compare a specified shortlist's properties or elastic beam responses. |
+| `compare_steel_sections` | Compare specified steel sections under the same complete beam model. |
 | `show_steel_sections` | Return catalog details and an optional website continuation link. |
 | `show_beam_results` | Return a temporary calculation/comparison snapshot and optional model links. |
 
