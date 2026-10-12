@@ -1,0 +1,11 @@
+{
+  "name": "optimal-beam",
+  "version": "1.0.0",
+  "description": "Linear elastic beam analysis and steel section catalog lookups from Optimal Beam.",
+  "mcpServers": {
+    "optimal-beam": {
+      "httpUrl": "https://mcp.optimalbeam.com/gemini/mcp",
+      "timeout": 60000
+    }
+  }
+}
